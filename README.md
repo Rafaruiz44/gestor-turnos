@@ -8,7 +8,7 @@ Proyecto personal desarrollado para practicar desarrollo backend, frontend y dis
 
 | Vista del cliente | Panel del barbero |
 |---|---|
-| Selección de servicio, fecha y horario disponible | Listado de turnos por día con opción de cancelar |
+| Selección de servicio, fecha y horario disponible | Listado de turnos por día con opción de cancelar y agregar/modificar servicios|
 
 ## Funcionalidades
 
